@@ -3,6 +3,8 @@
 ## Project Overview
 This repository contains my basic portfolio project, which I created as a practice exercise to learn and improve my HTML and CSS skills. The project is a simple portfolio website that showcases basic web development techniques.
 
+<img height="400" src="https://raw.githubusercontent.com/pullovers/portfolio-blue/main/img/home-portfolio-by-diogo-miranda.PNG" title="Blue Portfolio" alt="Blue Portfolio" />
+
 ## Languages Used
 - HTML: Used for structuring the content of the website.
 - CSS: Employed to style the HTML elements and enhance the visual appeal of the website.
@@ -18,4 +20,4 @@ Please note that this project is a replica created solely for educational purpos
 ## Contact
 For any inquiries or feedback regarding this project, feel free to reach out to me.
 
-[https://www.linkedin.com/in/diogo-miranda-sp/]
+[My Likedin](https://www.linkedin.com/in/diogo-miranda-sp/)
