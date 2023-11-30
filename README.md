@@ -20,4 +20,4 @@ Please note that this project is a replica created solely for educational purpos
 ## Contact
 For any inquiries or feedback regarding this project, feel free to reach out to me.
 
-[My Likedin](https://www.linkedin.com/in/diogo-miranda-sp/)
+[My LinkedIn](https://www.linkedin.com/in/diogo-miranda-sp/)
